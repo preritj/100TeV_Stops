@@ -1,0 +1,11 @@
+# Set paths here :
+
+# Delphes base directory 
+DelphesDIR = /Users/prerit/Physics/Delphes/Delphes-3.3.2  
+#DelphesDIR = /Users/prerit/Physics/Delphes/Delphes-3.0.9.1 
+
+# Data directory containing root files (as downloaded by Download.py script)
+DataDIR = /Users/prerit/Physics/100TeV/Data 
+
+# Directory where analysis results are stored
+OutDIR = /Users/prerit/Physics/100TeV/Stops/Results
